@@ -1,0 +1,126 @@
+{
+  "koders": [
+    {
+      "id": 1,
+      "name": "Jessica",
+      "gender": "f",
+      "generation": 16
+    },
+    {
+      "id": 2,
+      "name": "Vryahn",
+      "gender": "m",
+      "generation": 16
+    },
+    {
+      "id": 3,
+      "name": "Francisco",
+      "gender": "m",
+      "generation": 16
+    },
+    {
+      "id": 4,
+      "name": "Aldahir",
+      "gender": "m",
+      "generation": 16
+    },
+    {
+      "id": 5,
+      "name": "Hector",
+      "gender": "m",
+      "generation": 16
+    },
+    {
+      "id": 6,
+      "name": "Heidel",
+      "gender": "m",
+      "generation": 16
+    },
+    {
+      "id": 7,
+      "name": "Erick",
+      "gender": "m",
+      "generation": 16
+    },
+    {
+      "id": 8,
+      "name": "Rubs",
+      "gender": "m",
+      "generation": 10
+    },
+    {
+      "id": 9,
+      "name": "Roberto",
+      "gender": "m",
+      "generation": 10
+    },
+    {
+      "id": 10,
+      "name": "Cris",
+      "gender": "m",
+      "generation": 16
+    }
+  ],
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Aldo",
+      "gender": "m",
+      "module": "Maquetado"
+    },
+    {
+      "id": 2,
+      "name": "Joshua",
+      "gender": "m",
+      "module": "Javascript"
+    },
+    {
+      "id": 3,
+      "name": "Fernanda",
+      "gender": "f",
+      "module": "Backend"
+    },
+    {
+      "id": 4,
+      "name": "Ferdinand",
+      "gender": "m",
+      "module": "Pensamiento Lógico"
+    },
+    {
+      "id": 5,
+      "name": "Mels",
+      "gender": "f",
+      "module": "UX"
+    },
+    {
+      "id": 6,
+      "name": "Mariana",
+      "gender": "f",
+      "module": "UI"
+    },
+    {
+      "id": 7,
+      "name": "Santiago",
+      "gender": "m",
+      "module": "Negocios en TI"
+    },
+    {
+      "id": 8,
+      "name": "Alfredo",
+      "gender": "m",
+      "module": "Linux y Terminal"
+    },
+    {
+      "id": 9,
+      "name": "Verónica",
+      "gender": "f",
+      "module": "Agile"
+    },
+    {
+      "id": 10,
+      "name": "Charles",
+      "gender": "m",
+      "module": "Github"
+    }
+  ]
+}
